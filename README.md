@@ -2,8 +2,7 @@
 
 # Animated Bottom Bar
 
-([https://github.com/AB-star-50/Animated-Bottom-Bar/blob/main/shift_static.gif](https://github.com/abstars97/abab/blob/main/shift_static.gif))
-
+https://github.com/abstars97/abab/blob/main/shift_static.gif
 
 ## What is this component about?
 
@@ -24,5 +23,6 @@ This component that mimics the new Animated Bottom Bar with sleek animations.
 1. BadgeItem has been changed to TextBadgeItem
 2. New ShapeBadgeItem implementation changed.
 3. hideText replaced with new modes. To use those mode should be set to MODE_FIXED_NO_TITLE / MODE_SHIFTING_NO_TITLE 
+
 
 
